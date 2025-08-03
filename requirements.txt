@@ -7,3 +7,4 @@ Shapely==2.1.1
 streamlit==1.47.1
 streamlit_folium==0.25.0
 traveltimepy==4.1.0
+legacy-cgi 

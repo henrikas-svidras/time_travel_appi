@@ -1,4 +1,4 @@
-streamlit run frontend.py 
+`streamlit run frontend.py` 
 
 create .env file with:
 
